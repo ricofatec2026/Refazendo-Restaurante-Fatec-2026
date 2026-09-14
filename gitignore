@@ -1,0 +1,10 @@
+# Dados gerados pelo programa (pickle) - nao versionar
+restaurante_dados.pkl
+
+# Cache de bytecode do Python
+__pycache__/
+*.pyc
+
+# Ambientes virtuais, caso venha a criar um
+venv/
+.venv/
